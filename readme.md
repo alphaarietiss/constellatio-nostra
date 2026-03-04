@@ -1,13 +1,10 @@
-<div align="center">
+<div align="center" style="background-color:#0B1D51; padding: 40px; border-radius: 12px; color: #A3C1FF; font-family: 'Courier New', Courier, monospace;">
 
-# 🌌 constellatio_nostra
+<img src="./assets/constelacao.png" alt="Constelação" width="150" style="border-radius: 12px; margin-bottom: 20px;"/>
 
-### since december/2025  
-### version 1.0.0 — 07.03  
+# 🌌 Constellatio Nostra
 
-> Two souls.  
-> One sky.  
-> Infinite blue.
+### Desde dezembro de 2025. Oficialmente em 07/03. 💙
 
 ---
 
