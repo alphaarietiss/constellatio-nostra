@@ -4,7 +4,7 @@
 
 # 🌌 Constellatio Nostra
 
-### Desde dezembro de 2025. Oficialmente em 07/03. 💙
+### Nós 💙
 
 ---
 
@@ -27,3 +27,4 @@ sob o mesmo céu azul.
 </sub>
 
 </div>
+
